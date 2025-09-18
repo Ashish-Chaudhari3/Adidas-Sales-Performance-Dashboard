@@ -9,7 +9,7 @@ The dashboard enables stakeholders to track sales performance, identify key tren
 ---
 
 ## 📸 Dashboard  
-![Adidas Dashboard] <img width="1872" height="842" alt="Screenshot 2025-09-18 151216" src="https://github.com/user-attachments/assets/8e2910f6-5cd0-4be2-a27e-cf3f4f2bd8a4" /> 
+<img width="1872" height="842" alt="Screenshot 2025-09-18 151216" src="https://github.com/user-attachments/assets/8e2910f6-5cd0-4be2-a27e-cf3f4f2bd8a4" /> 
 
 
 ---
