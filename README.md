@@ -8,8 +8,8 @@ The dashboard enables stakeholders to track sales performance, identify key tren
 
 ---
 
-## 📸 Dashboard Preview  
-![Adidas Dashboard](98d14475-43eb-4c76-ae02-0496c7e1f49c.png)  
+## 📸 Dashboard  
+![Adidas Dashboard](https://drive.google.com/file/d/1WdSUut1PUPaXqekkTSTp0yvhyPwWHIwQ/view?usp=drive_link)  
 
 ---
 
@@ -50,10 +50,5 @@ The dashboard enables stakeholders to track sales performance, identify key tren
 1. Download the Excel file from this repository.  
 2. Open it in Microsoft Excel (2016 or later recommended).  
 3. Use the slicers (Sales Method, Region, Month) to interact with the dashboard.  
-
----
-
-## 📜 License  
-This project is licensed under the MIT License.  
 
 ---
