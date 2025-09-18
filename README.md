@@ -1,5 +1,4 @@
 # Adidas-Sales-Performance-Dashboard  
-<img width="1872" height="842" alt="Screenshot 2025-09-18 151216" src="https://github.com/user-attachments/assets/02271bd4-73be-4b4b-bf9e-23af5bf40720" />
 
 ## 📊 Project Overview  
 This project presents an **interactive sales performance dashboard** for Adidas, built entirely in **Microsoft Excel**.  
@@ -10,7 +9,7 @@ The dashboard enables stakeholders to track sales performance, identify key tren
 ---
 
 ## 📸 Dashboard  
-![Adidas Dashboard](<img width="1872" height="842" alt="Screenshot 2025-09-18 151216" src="https://github.com/user-attachments/assets/8e2910f6-5cd0-4be2-a27e-cf3f4f2bd8a4" />)  
+![Adidas Dashboard] <img width="1872" height="842" alt="Screenshot 2025-09-18 151216" src="https://github.com/user-attachments/assets/8e2910f6-5cd0-4be2-a27e-cf3f4f2bd8a4" /> 
 
 
 ---
